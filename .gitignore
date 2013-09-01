@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+# Netbeans Project files
+nbproject
+
+# Other ignores
+Makefile
+main.cpp
